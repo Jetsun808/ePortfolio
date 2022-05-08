@@ -4,8 +4,8 @@ Evidence is provided here of the following objectives:
 - Communication Cocepts:
 - Communication Strategies: 
 2. Show confidence and skills in oral communications and presentations
-- As a COIT11239 student, I will be presenting on "using blockchain in the education Sector for trusted credentials.
--I led a business meeting  with [Walton Group](https://waltonbd.com/) in Nepal.
+- As a COIT11239 student, I will be presenting on "Using blockchain in the education Sector for trusted credentials".
+- I led a business meeting  with [Walton Group](https://waltonbd.com/) in Nepal.
 3. Work effectively as part of a team
 - As, a part of the sales team we brought in over $300,000 USD in net profit in just a month
 4. Communicate effectively in a professional context
