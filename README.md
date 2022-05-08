@@ -1,10 +1,10 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
-- Communication Cocepts: The process of sending and receiving messages via verbal or nonverbal means is basically the concept of communication.
-                          I communicate through the means of emails and phone calls with the clients.
-- Communication Strategies: A communication strategy is the basis that aids in communication alignment and the creation of relevant, consistent messages. 
-                           I always start my meetings with a firm handshake with a good eye contact. 
+- Communication Cocepts: 
+ Communicating ideas to the team through technical drawings
+- Communication Strategies: 
+ A great listener and communicator who can converse with total strangers.
 2. Show confidence and skills in oral communications and presentations
 - As a COIT11239 student, I will be presenting on "Using blockchain in the education Sector for trusted credentials".
 - I led a business meeting  with [Walton Group](https://waltonbd.com/) in Nepal.
