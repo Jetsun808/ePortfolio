@@ -4,6 +4,8 @@ Evidence is provided here of the following objectives:
 - Add evidence here.
 2. Show confidence and skills in oral communications and presentations
 -  During the business meeting I had with [Walton Group](https://waltonbd.com/) in Nepal.
+   .![](Presentation1.png)
+   .![](Presentation2.png)
 3. Work effectively as part of a team
 - Add evidence here.
 4. Communicate effectively in a professional context
