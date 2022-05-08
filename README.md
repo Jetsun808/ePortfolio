@@ -1,14 +1,14 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
-- Add evidence here.
+- Communication Cocepts:
+- Communication Strategies: 
 2. Show confidence and skills in oral communications and presentations
--  During the business meeting I had with [Walton Group](https://waltonbd.com/) in Nepal.
-   .![Presentation1](https://user-images.githubusercontent.com/103425298/167282681-d3c62d9f-1512-4fa4-9f7b-5302c2aa3f0f.jpg)
-   .![Presentation2](https://user-images.githubusercontent.com/103425298/167282719-811b70d4-d8f6-483f-beaa-5d441cf758f8.jpg)
+- As a COIT11239 student, I will be presenting on "using blockchain in the education Sector for trusted credentials.
+-I led a business meeting  with [Walton Group](https://waltonbd.com/) in Nepal.
 3. Work effectively as part of a team
-- Add evidence here.
+- As, a part of the sales team we brought in over $300,000 USD in net profit in just a month
 4. Communicate effectively in a professional context
-- Add evidence here.
+- I've attended meetings with several multi national companies such as: [Walton Group](https://waltonbd.com/), [Whirlpool Corporations](whirlpoolcorp.com), [Viscofan](https://www.viscofan.com/), [Ncell](https://www.ncell.axiata.com/en) and etc.
 5. Define and demonstrate conflict management and resolution strategies.
-- Add evidence here.
+- As a COIT11239 student, I participated in Conflict Management Roleplays.
