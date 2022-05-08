@@ -2,7 +2,8 @@
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
 - Communication Cocepts:
-- Communication Strategies: 
+- Communication Strategies: A communication strategy is the basis that aids in communication alignment and the creation of relevant, consistent messages. 
+                            I alaways start my meetings with a firm handshake with a good eye contact. 
 2. Show confidence and skills in oral communications and presentations
 - As a COIT11239 student, I will be presenting on "Using blockchain in the education Sector for trusted credentials".
 - I led a business meeting  with [Walton Group](https://waltonbd.com/) in Nepal.
